@@ -1,6 +1,4 @@
 # SSCS_CHIPATHON_2026_CRYPTOACCEL
-# CryptoAccel
-
 Team CryptoAccel's Repository for IEEE SSCS Chipathon 2026:
 - **Team Lead** - [*Lakshmi Iyer*](https://www.linkedin.com/in/lakshmi-iyer-27020b40/) - IIT Bombay
 - [*Yashvardhan Singh*](https://www.linkedin.com/in/yvs373/) - STMicroelectronics, MIT Manipal
